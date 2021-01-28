@@ -2,7 +2,7 @@ import 'dart:io';
 
 
 class Customer {
-  var id, passengerLimit, price, location, discount,customerReserve;
+  var id, passengerLimit, price, location, discount;
   int num=0 ;
 
   DateTime date;
